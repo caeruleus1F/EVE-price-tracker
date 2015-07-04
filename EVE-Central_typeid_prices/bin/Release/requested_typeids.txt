@@ -1,0 +1,247 @@
+37
+40
+36
+11399
+38
+35
+34
+39
+30370
+30371
+30372
+30373
+30374
+30375
+30376
+30377
+30378
+29668
+28694
+28695
+28696
+28697
+28698
+28699
+28700
+28701
+25268
+25279
+25275
+25273
+25277
+25276
+25278
+25274
+16264
+16262
+16267
+17978
+16268
+16263
+16266
+16269
+17976
+17977
+17975
+16265
+16272
+16274
+17889
+16273
+17888
+17887
+16275
+16634
+16635
+16633
+16636
+16640
+16639
+16638
+16637
+16643
+16642
+16641
+16644
+16647
+16649
+16648
+16646
+16652
+16650
+16651
+16653
+16661
+16658
+16660
+16659
+16655
+16656
+16654
+16657
+16665
+16663
+16664
+16662
+17959
+17960
+16666
+16669
+16668
+16667
+17769
+4312
+16672
+16671
+16673
+16670
+16678
+16679
+16680
+16681
+16682
+16683
+17317
+16868,Standard Blue Pill Booster Reaction
+17941,Caesarium Cadmide Reaction
+17942,Carbon Polymers Reaction
+17943,Ceramic Powder Reaction
+17944,Crystallite Alloy Reaction
+17945,Dysporite Reaction
+17946,Fernite Alloy Reaction
+17947,Ferrofluid Reaction
+17948,Fluxed Condensates Reaction
+17949,Hexite Reaction
+17950,Hyperflurite Reaction
+17951,Neo Mercurite Reaction
+17952,Platinum Technite Reaction
+17953,Rolled Tungsten Alloy Reaction
+17954,Silicon Diborite Reaction
+17955,Solerium Reaction
+17956,Sulfuric Acid Reaction
+17957,Titanium Chromide Reaction
+17958,Vanadium Hafnite Reaction
+17961,Prometium Reaction
+17962,Titanium Carbide Reaction
+17963,Crystalline Carbonide Reaction
+17964,Fernite Carbide Reaction
+17965,Tungsten Carbide Reaction
+17966,Sylramic Fibers Reaction
+17967,Fulleride Reaction
+17968,Phenolic Composites Reaction
+17969,Nanotransistors Reaction
+17970,Hypersynaptic Fibers Reaction
+17971,Ferrogel Reaction
+17972,Fermionic Condensates Reaction
+20432,Black Morphite Reaction
+25240,Improved Blue Pill Booster Reaction
+25243,Standard Crash Booster Reaction
+25251,Standard Frentix Booster Reaction
+25282,Strong Blue Pill Booster Reaction
+25284,Standard Drop Booster Reaction
+25285,Standard Exile Booster Reaction
+25286,Standard Mindflood Booster Reaction
+25287,Standard X-Instinct Booster Reaction
+25288,Standard Sooth Sayer Booster Reaction
+25289,Improved Crash Booster Reaction
+25290,Improved Drop Booster Reaction
+25291,Improved Exile Booster Reaction
+25292,Improved Mindflood Booster Reaction
+25293,Improved Frentix Booster Reaction
+25294,Improved X-Instinct Booster Reaction
+25295,Improved Sooth Sayer Booster Reaction
+25296,Strong Crash Booster Reaction
+25297,Strong Drop Booster Reaction
+25298,Strong Exile Booster Reaction
+25299,Strong Mindflood Booster Reaction
+25300,Strong Frentix Booster Reaction
+25301,Strong X-Instinct Booster Reaction
+25302,Strong Sooth Sayer Booster Reaction
+28702,Synth Blue Pill Booster Reaction
+28703,Synth Crash Booster Reaction
+28704,Synth Drop Booster Reaction
+28705,Synth Exile Booster Reaction
+28706,Synth Frentix Booster Reaction
+28707,Synth Mindflood Booster Reaction
+28708,Synth Sooth Sayer Booster Reaction
+28709,Synth X-Instinct Booster Reaction
+29640,Unrefined Hyperflurite Reaction
+29641,Unrefined Ferrofluid Reaction
+29642,Unrefined Prometium Reaction
+29643,Unrefined Neo Mercurite Reaction
+29644,Unrefined Dysporite Reaction
+29645,Unrefined Fluxed Condensates Reaction
+30344,Fulleroferrocene Reaction
+30345,PPD Fullerene Fibers Reaction
+30346,Fullerene Intercalated Graphite Reaction
+30348,Lanthanum Metallofullerene Reaction
+30349,Scandium Metallofullerene Reaction
+30350,Graphene Nanoribbons Reaction
+30351,Carbon-86 Epoxy Resin Reaction
+30352,C3-FTM Acid Reaction
+30368,Methanofullerene Reaction
+32830,Unrefined Vanadium Hafnite Reaction
+32831,Unrefined Platinum Technite Reaction
+32832,Unrefined Solerium Reaction
+32833,Unrefined Caesarium Cadmide Reaction
+32834,Unrefined Hexite Reaction
+32835,Unrefined Rolled Tungsten Alloy Reaction
+32836,Unrefined Titanium Chromide Reaction
+32837,Unrefined Fernite Alloy Reaction
+32838,Unrefined Crystallite Alloy Reaction
+33340,Thulium Hafnite Reaction
+33341,Promethium Mercurite Reaction
+33342,Unrefined Thulium Hafnite Reaction
+33343,Unrefined Promethium Mercurite Reaction
+33363,Nonlinear Metamaterials Reaction
+33364,Photonic Metamaterials Reaction
+33365,Plasmonic Metamaterials Reaction
+33366,Terahertz Metamaterials Reaction
+22,Arkonor
+17425,Crimson Arkonor
+17426,Prime Arkonor
+1223,Bistot
+17428,Triclinic Bistot
+17429,Monoclinic Bistot
+1225,Crokite
+17432,Sharp Crokite
+17433,Crystalline Crokite
+1229,Gneiss
+17865,Iridescent Gneiss
+17866,Prismatic Gneiss
+21,Hedbergite
+17440,Vitric Hedbergite
+17441,Glazed Hedbergite
+1231,Hemorphite
+17444,Vivid Hemorphite
+17445,Radiant Hemorphite
+1226,Jaspet
+17448,Pure Jaspet
+17449,Pristine Jaspet
+20,Kernite
+17452,Luminous Kernite
+17453,Fiery Kernite
+11396,Mercoxit
+17869,Magma Mercoxit
+17870,Vitreous Mercoxit
+1232,Dark Ochre
+17436,Onyx Ochre
+17437,Obsidian Ochre
+1227,Omber
+17867,Silvery Omber
+17868,Golden Omber
+18,Plagioclase
+17455,Azure Plagioclase
+17456,Rich Plagioclase
+1224,Pyroxeres
+17459,Solid Pyroxeres
+17460,Viscous Pyroxeres
+1228,Scordite
+17463,Condensed Scordite
+17464,Massive Scordite
+19,Spodumain
+17466,Bright Spodumain
+17467,Gleaming Spodumain
+1230,Veldspar
+17470,Concentrated Veldspar
+17471,Dense Veldspar

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVE-Central_typeid_prices", "EVE-Central_typeid_prices\EVE-Central_typeid_prices.csproj", "{9EF74846-60CC-4A74-ABD5-C2B1A8D609FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EF74846-60CC-4A74-ABD5-C2B1A8D609FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF74846-60CC-4A74-ABD5-C2B1A8D609FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF74846-60CC-4A74-ABD5-C2B1A8D609FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF74846-60CC-4A74-ABD5-C2B1A8D609FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+c:\users\desktop\documents\visual studio 2013\Projects\EVE-Central_typeid_prices\EVE-Central_typeid_prices\bin\Debug\EVE-Central_typeid_prices.exe.config
+c:\users\desktop\documents\visual studio 2013\Projects\EVE-Central_typeid_prices\EVE-Central_typeid_prices\bin\Debug\EVE-Central_typeid_prices.exe
+c:\users\desktop\documents\visual studio 2013\Projects\EVE-Central_typeid_prices\EVE-Central_typeid_prices\bin\Debug\EVE-Central_typeid_prices.pdb
+c:\users\desktop\documents\visual studio 2013\Projects\EVE-Central_typeid_prices\EVE-Central_typeid_prices\obj\Debug\EVE-Central_typeid_prices.csprojResolveAssemblyReference.cache
+c:\users\desktop\documents\visual studio 2013\Projects\EVE-Central_typeid_prices\EVE-Central_typeid_prices\obj\Debug\EVE_Central_typeid_prices.Form1.resources
+c:\users\desktop\documents\visual studio 2013\Projects\EVE-Central_typeid_prices\EVE-Central_typeid_prices\obj\Debug\EVE_Central_typeid_prices.Properties.Resources.resources
+c:\users\desktop\documents\visual studio 2013\Projects\EVE-Central_typeid_prices\EVE-Central_typeid_prices\obj\Debug\EVE-Central_typeid_prices.csproj.GenerateResource.Cache
+c:\users\desktop\documents\visual studio 2013\Projects\EVE-Central_typeid_prices\EVE-Central_typeid_prices\obj\Debug\EVE-Central_typeid_prices.exe
+c:\users\desktop\documents\visual studio 2013\Projects\EVE-Central_typeid_prices\EVE-Central_typeid_prices\obj\Debug\EVE-Central_typeid_prices.pdb
